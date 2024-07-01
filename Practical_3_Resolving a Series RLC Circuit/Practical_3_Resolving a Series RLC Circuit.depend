@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712958063 source:c:\users\ihartley\onedrive\documents\code projects\c\practical_3_resolving a series rlc circuit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
